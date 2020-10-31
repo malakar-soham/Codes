@@ -49,3 +49,4 @@ maxarea = 7
 2|_|_|_|_|_|_|_|
 1|X|X|X|X|X|X|X|
 ```
+For detailed explanation visit [here](https://www.youtube.com/watch?v=lsQTYlCiU6c)
