@@ -19,7 +19,7 @@ Pseudocode:
 function(heights):
   maxarea = 0;
   pstack, hstack = Stack(), Stack()
-  heights.addEnd(0) //to fool the algorithm to empty the stack in the end 
+  heights.addEnd(0) #to fool the algorithm to empty the stack in the end
 
   for i in range(len(heights)):
   	lastwidth = INFINITY
